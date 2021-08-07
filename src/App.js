@@ -2,9 +2,9 @@ import React, { useState, useRef } from "react";
 import Canvas from "./Canvas";
 import { drawClock, CANVAS_WIDTH, CANVAS_HEIGHT } from "./drawClock";
 import { drawDali } from "./dali/drawPersistenceOfMemory";
-import { useStopwatch } from "./timers/useStopwatch";
-import { useClockTime } from "./timers/useClockTime";
-import { animateSwitch } from "./timers/useAnimateTransition";
+import { useStopwatch } from "./timingLogic/useStopwatch";
+import { useClockTime } from "./timingLogic/useClockTime";
+import { animateTransition } from "./timingLogic/animateTransition";
 import "./index.css";
 
 const MODES = {
@@ -21,7 +21,7 @@ const resetStopwatchTime = {
 
 function App() {
   const startTransition = (t1, t2, isClockRunning) => {
-    drawFunction.current = animateSwitch(t1, t2, isClockRunning, () => {
+    drawFunction.current = animateTransition(t1, t2, isClockRunning, () => {
       drawFunction.current = drawClock;
     });
   };

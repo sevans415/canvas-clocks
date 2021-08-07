@@ -3,7 +3,7 @@ import { secsToTime } from "./useStopwatch";
 
 const ANIMATION_SECS = 2;
 
-export const animateSwitch = (t1, t2, isClockRunning, done) => {
+export const animateTransition = (t1, t2, isClockRunning, done) => {
   if (!t1 || !t2) throw new Error("t1 and t2 must be set");
 
   const t1Secs = t1.sec + t1.min * 60 + t1.hr * 60 * 60;
