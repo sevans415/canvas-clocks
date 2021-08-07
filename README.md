@@ -2,7 +2,8 @@
 
 Phenomenal for when you're not sure what time it is and you have a computer handy!
 
-![clocks-demo-2](https://user-images.githubusercontent.com/20228621/128615947-5fe52579-2a08-4d5e-b64c-ab37fa612ddd.gif)
+![clocks_demo-3](https://user-images.githubusercontent.com/20228621/128615980-14032fe0-5c41-4245-a7ff-255a60949934.gif)
+
 
 
 ## Running this project
