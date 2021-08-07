@@ -2,6 +2,8 @@
 
 Phenomenal for when you're not sure what time it is and you have a computer handy!
 
+(Note: GIF FPS degraded so file would fit under 10MB)
+
 ![clocks_demo-3](https://user-images.githubusercontent.com/20228621/128615980-14032fe0-5c41-4245-a7ff-255a60949934.gif)
 
 
