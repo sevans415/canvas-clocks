@@ -2,6 +2,9 @@
 
 Phenomenal for when you're not sure what time it is and you have a computer handy!
 
+![clocks-demo-2](https://user-images.githubusercontent.com/20228621/128615947-5fe52579-2a08-4d5e-b64c-ab37fa612ddd.gif)
+
+
 ## Running this project
 
 Requires node, but otherwise, you can get everything going quickly with `yarn install && yarn start` (or `npm install && npm start` for the non-🧶-ers)
