@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Canvas Clocks 🕰
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Phenomenal for when you're not sure what time it is and you have a computer handy!
 
-## Available Scripts
+## Running this project
+
+Requires node, but otherwise, you can get everything going quickly with `yarn install && yarn start` (or `npm install && npm start` for the non-🧶-ers)
 
 In the project directory, you can run:
 
