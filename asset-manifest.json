@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/canvas-clocks/static/css/main.ec3df96e.chunk.css",
+    "main.js": "/canvas-clocks/static/js/main.58c98b52.chunk.js",
+    "main.js.map": "/canvas-clocks/static/js/main.58c98b52.chunk.js.map",
+    "runtime-main.js": "/canvas-clocks/static/js/runtime-main.d29ef18e.js",
+    "runtime-main.js.map": "/canvas-clocks/static/js/runtime-main.d29ef18e.js.map",
+    "static/js/2.5099298b.chunk.js": "/canvas-clocks/static/js/2.5099298b.chunk.js",
+    "static/js/2.5099298b.chunk.js.map": "/canvas-clocks/static/js/2.5099298b.chunk.js.map",
+    "index.html": "/canvas-clocks/index.html",
+    "static/css/main.ec3df96e.chunk.css.map": "/canvas-clocks/static/css/main.ec3df96e.chunk.css.map",
+    "static/js/2.5099298b.chunk.js.LICENSE.txt": "/canvas-clocks/static/js/2.5099298b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29ef18e.js",
+    "static/js/2.5099298b.chunk.js",
+    "static/css/main.ec3df96e.chunk.css",
+    "static/js/main.58c98b52.chunk.js"
+  ]
+}
