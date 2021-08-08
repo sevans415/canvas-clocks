@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,sBACF,CACA,OACE,UACF,CAEA,OACE,WAAY,CACZ,aACF","file":"main.ec3df96e.chunk.css","sourcesContent":[".buttons {\n  display: flex;\n  justify-content: center;\n}\nbutton {\n  margin: 3px;\n}\n\ncanvas {\n  margin: auto;\n  display: block;\n}\n"]}
